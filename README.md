@@ -1,17 +1,32 @@
-### Hi there 👋
+## 👋 Hi there, I'm Avanish Pal
 
-<!--
-**imnotAnsh01/imnotAnsh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 D. Pharma 2nd Year Student  
+🔬 Science (Biology) background  
+💻 Learning Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **My Portfolio Website**  
+👉 https://easyworldd.github.io/my-bio-website/
 
+📄 **Resume**  
+You can download my resume directly from my portfolio website.
+
+---
+
+### 🛠️ Skills
+- HTML (Basic)  
+- CSS (Basic)  
+- JavaScript (Beginner)  
+- Website Designing  
+
+---
+
+### 🎯 Goals
+I aim to combine my pharmacy knowledge with technology and explore
+opportunities in health-tech and digital solutions in the future.
+
+---
+
+📫 **Contact**
+- Email: neonman242@gmail.com
